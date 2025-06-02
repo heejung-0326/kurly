@@ -1,0 +1,6 @@
+{"products": [
+  {"id": 1, "filename": "best_seller1.jpg", "title":"[에스티로더] 갈샐병 세럼50ml + 45ml 기획세트 (1ml * 3ea 추가...................)","before_price":"200,000원", "sale":"15%", "price":"170,000원"},
+  {"id": 2, "filename":"best_seller2.jpg", "title":"[덴프스] 덴마크 유산균 이야기 선물세트 (180일분) + (쇼핑백 증정)", "before_price":"276,000원", "sale":"66%", "price":"92,000원"},
+  {"id": 3, "filename":"best_seller3.jpg", "title":"[24-25 햇올리브][꾸악] 스페인 유기농 엑스트라버진 500mL", "before_price":"89,100원", "sale":"10%", "price":"80,190원"},
+  {"id": 4, "filename":"best_seller4.jpg", "title":"[설화수] New 자음 2종 세트 (자음수 EX, 자음유액 EX) ","before_price":"150,000원", "sale":",0%", "price":"135,000원"}
+  ]}

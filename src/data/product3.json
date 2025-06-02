@@ -1,0 +1,7 @@
+{"products": [
+  {"id": 1, "filename": "best_rank1.jpg", "title":"[스윗밸런스] 오늘의 샐러드 10종(리뉴얼) (택1)", "sale":"10%", "price":"4,860원~원"},
+  {"id": 2, "filename":"best_rank2.jpg", "title":"[KF365] 대추방울토마토 750g", "sale":"58%", "price":"6,990원~"},
+  {"id": 3, "filename":"best_rank3.jpg", "title":"[KF365] 훈제오리 2종(2입)", "sale":"25%", "price":"7,790원~"},
+  {"id": 4, "filename":"best_rank4.jpg", "title":"[KF365] 실속 바나나 1kg 2종", "sale":"10%", "price":"3,990원~"},
+  {"id": 5, "filename":"best_rank5.jpg", "title":"[kurly's] 국산콩 두부 500g", "sale":"10%", "price":"9,180원~"}
+  ]}

@@ -1,0 +1,73 @@
+@charset "utf-8";
+
+fieldset{
+  width: 500px;
+  height: 700px;
+  margin: 0 auto;
+  border:none;
+  transform: translateY(20%);
+}
+fieldset>h3{
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+
+#id,#pw{
+  width: 350px;
+  padding: 15px;
+  margin: 0px 10px 10px 10px;
+  transform: translateX(11%);
+  
+}
+.find{
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  cursor: pointer;
+}
+.find>li{
+  list-style: none;
+}
+
+.find span{
+  width: 0.5px;
+  background-color: #333;
+  margin: 5px 5px;
+}
+.btn_group{
+
+  padding-top: 20px;
+}
+.btn_group>button{
+  width: 380px;
+  margin-top: 10px;
+  transform: translateX(14%);
+  padding: 13px;
+  font-size: 18px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.btn1{
+  background-color: #5f0080;
+  color: #fff;
+  border: none;
+}
+.btn2{
+  background-color: #fff;
+  border: 1px solid #5f0080;
+  color: #5f0080;
+}
+.btn3{
+  margin-top: 15px;
+  background-color: #fff;
+  border: 1px solid rgb(224, 91, 219);
+  color: rgb(224, 91, 219);
+  transform: translateX(220px);
+  cursor: pointer;
+}
+
+
+
+
